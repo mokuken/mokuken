@@ -1,1 +1,2 @@
-<h2 align="center">you're here not to steal my codes, right?</h2>
+<h1>Hello there!</h1>
+<p>I'm <a href="https://harlykhen.vercel.app/">Harly Khen</a></a></p>
