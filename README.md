@@ -1,7 +1,6 @@
 <h1>Hey there!</h1>
-<p>I'm <a href="https://harlykhen.vercel.app/">Harly Khen</a>, a software Developer based in Philippines</a></p>
+<p>I'm <a href="https://harlykhen.vercel.app/">Harly Khen</a>, a Software Developer based in Philippines</a></p>
 
-# 💫 About Me:
 A bit about me<br>I'm a self-taught web developer, I love learning tech-stuff and self-improvement. I passionately combine good design, technology, and innovation in all my projects, which I like to accompany from the first idea to release.
 
 
